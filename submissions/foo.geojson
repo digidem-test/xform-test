@@ -15,6 +15,21 @@
         }
       },
       "id": "9fef20d0-f60f-11e6-a5dc-5b43e45e1491"
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "foo": "bar",
+        "baz": "qux",
+        "meta": {
+          "instanceId": "uuid:d0d8f2c0-f60f-11e6-a5dc-5b43e45e1491",
+          "instanceName": "form",
+          "formId": "foo",
+          "submissionTime": "2017-02-18T19:24:07.019Z"
+        }
+      },
+      "id": "d0d8f2c0-f60f-11e6-a5dc-5b43e45e1491"
     }
   ]
 }
